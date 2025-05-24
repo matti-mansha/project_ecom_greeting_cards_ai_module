@@ -167,12 +167,12 @@ def create_letter_png_with_blank_page(greeting, body, signoff, output_path="outp
     
     # Draw a dotted line in the middle
     mid_x = total_width_px // 2
-    dash_length = 10
-    gap_length = 10
-    y = 0
-    while y < height_px:
-        draw.line([(mid_x, y), (mid_x, y + dash_length)], fill='black', width=1)
-        y += dash_length + gap_length
+    # dash_length = 10
+    # gap_length = 10
+    # y = 0
+    # while y < height_px:
+    #     draw.line([(mid_x, y), (mid_x, y + dash_length)], fill='black', width=1)
+    #     y += dash_length + gap_length
     
     # Draw the letter content on the right half
     img = draw_letter_content(img, greeting, body, signoff, start_x=mid_x)
@@ -230,12 +230,12 @@ def concatenate_images(local_path, url, output_path="concatenated-output-page-01
     # Draw a dotted line in the middle
     draw = ImageDraw.Draw(concatenated_img)
     mid_x = width_px  # Middle point between the two images
-    dash_length = 10
-    gap_length = 10
-    y = 0
-    while y < height_px:
-        draw.line([(mid_x, y), (mid_x, y + dash_length)], fill='black', width=1)
-        y += dash_length + gap_length
+    # dash_length = 10
+    # gap_length = 10
+    # y = 0
+    # while y < height_px:
+    #     draw.line([(mid_x, y), (mid_x, y + dash_length)], fill='black', width=1)
+    #     y += dash_length + gap_length
     
     # Save the concatenated image
     try:

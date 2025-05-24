@@ -1,0 +1,428 @@
+2025-05-24 10:57:08 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6000
+ * Running on http://192.168.1.12:6000
+2025-05-24 10:57:08 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6000
+ * Running on http://192.168.1.12:6000
+2025-05-24 10:57:08 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-24 10:57:08 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-24 10:57:08 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 10:57:08 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 10:57:09 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 10:57:09 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 10:57:09 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 10:57:09 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 10:59:00 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 10:59:00 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 10:59:00 - root - INFO - Width margin: 225px, Height margin: 315px
+2025-05-24 10:59:00 - root - INFO - Width margin: 225px, Height margin: 315px
+2025-05-24 10:59:00 - root - INFO - Max text width: 1050px, Usable height: 1470px
+2025-05-24 10:59:00 - root - INFO - Max text width: 1050px, Usable height: 1470px
+2025-05-24 10:59:00 - root - INFO - Body has 0 newlines. Is poem: False
+2025-05-24 10:59:00 - root - INFO - Body has 0 newlines. Is poem: False
+2025-05-24 10:59:00 - root - INFO - Testing font size 505: Total lines: 23, Height: 16261px, Body fits width: False
+2025-05-24 10:59:00 - root - INFO - Testing font size 505: Total lines: 23, Height: 16261px, Body fits width: False
+2025-05-24 10:59:00 - root - INFO - Testing font size 257: Total lines: 19, Height: 6821px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 257: Total lines: 19, Height: 6821px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 133: Total lines: 11, Height: 2046px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 133: Total lines: 11, Height: 2046px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 71: Total lines: 8, Height: 792px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 71: Total lines: 8, Height: 792px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 102: Total lines: 10, Height: 1420px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 102: Total lines: 10, Height: 1420px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 117: Total lines: 10, Height: 1630px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 117: Total lines: 10, Height: 1630px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 109: Total lines: 10, Height: 1520px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 109: Total lines: 10, Height: 1520px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 105: Total lines: 10, Height: 1470px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 105: Total lines: 10, Height: 1470px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 107: Total lines: 10, Height: 1490px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 107: Total lines: 10, Height: 1490px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 106: Total lines: 10, Height: 1480px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Testing font size 106: Total lines: 10, Height: 1480px, Body fits width: True
+2025-05-24 10:59:00 - root - INFO - Optimal font size selected: 105
+2025-05-24 10:59:00 - root - INFO - Optimal font size selected: 105
+2025-05-24 10:59:00 - root - INFO - Total content height: 1470px, Starting y-position: 315px
+2025-05-24 10:59:00 - root - INFO - Total content height: 1470px, Starting y-position: 315px
+2025-05-24 10:59:00 - root - INFO - Drawing greeting
+2025-05-24 10:59:00 - root - INFO - Drawing greeting
+2025-05-24 10:59:00 - root - INFO - Drawing body
+2025-05-24 10:59:00 - root - INFO - Drawing body
+2025-05-24 10:59:00 - root - INFO - Drawing sign-off (right-aligned)
+2025-05-24 10:59:00 - root - INFO - Drawing sign-off (right-aligned)
+2025-05-24 10:59:00 - root - INFO - Loaded and resized local image from last-page.png to 1500x2100
+2025-05-24 10:59:00 - root - INFO - Loaded and resized local image from last-page.png to 1500x2100
+2025-05-24 10:59:02 - root - INFO - Loaded and resized image from URL https://tobre-cards.s3.us-east-2.amazonaws.com/images/e964dcdb-1b02-4f86-959a-ee11791db037-Happy%20Birthday%20(4).png to 1500x2100
+2025-05-24 10:59:02 - root - INFO - Loaded and resized image from URL https://tobre-cards.s3.us-east-2.amazonaws.com/images/e964dcdb-1b02-4f86-959a-ee11791db037-Happy%20Birthday%20(4).png to 1500x2100
+2025-05-24 10:59:02 - root - INFO - Created output-page-01.png with dimensions 3000x2100 pixels (254mm x 177.8mm at 300 DPI)
+2025-05-24 10:59:02 - root - INFO - Created output-page-01.png with dimensions 3000x2100 pixels (254mm x 177.8mm at 300 DPI)
+2025-05-24 10:59:02 - root - INFO - Each page size: 3000x2100 pixels (254mm x 177.8mm)
+2025-05-24 10:59:02 - root - INFO - Each page size: 3000x2100 pixels (254mm x 177.8mm)
+2025-05-24 10:59:02 - root - INFO - PDF page size: 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 10:59:02 - root - INFO - PDF page size: 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 10:59:03 - root - INFO - Created PDF: output.pdf with 2 pages, each 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 10:59:03 - root - INFO - Created PDF: output.pdf with 2 pages, each 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 10:59:14 - root - INFO - Upload Successful: generated-cards/48648aed-6046-41fa-b9ac-a44eeee9ab68.pdf to tobre-cards
+2025-05-24 10:59:14 - root - INFO - Upload Successful: generated-cards/48648aed-6046-41fa-b9ac-a44eeee9ab68.pdf to tobre-cards
+2025-05-24 10:59:14 - root - INFO - The file output.pdf has been deleted.
+2025-05-24 10:59:14 - root - INFO - The file output.pdf has been deleted.
+2025-05-24 10:59:14 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 10:59:14] "POST /api/generate_card HTTP/1.1" 200 -
+2025-05-24 10:59:14 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 10:59:14] "POST /api/generate_card HTTP/1.1" 200 -
+2025-05-24 10:59:50 - werkzeug - INFO -  * Detected change in '/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py', reloading
+2025-05-24 10:59:50 - werkzeug - INFO -  * Detected change in '/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py', reloading
+2025-05-24 10:59:50 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 10:59:50 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 10:59:51 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 10:59:51 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 10:59:51 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 10:59:51 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 10:59:53 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 10:59:53 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 10:59:53 - root - INFO - Width margin: 225px, Height margin: 315px
+2025-05-24 10:59:53 - root - INFO - Width margin: 225px, Height margin: 315px
+2025-05-24 10:59:53 - root - INFO - Max text width: 1050px, Usable height: 1470px
+2025-05-24 10:59:53 - root - INFO - Max text width: 1050px, Usable height: 1470px
+2025-05-24 10:59:53 - root - INFO - Body has 0 newlines. Is poem: False
+2025-05-24 10:59:53 - root - INFO - Body has 0 newlines. Is poem: False
+2025-05-24 10:59:53 - root - INFO - Testing font size 505: Total lines: 23, Height: 16261px, Body fits width: False
+2025-05-24 10:59:53 - root - INFO - Testing font size 505: Total lines: 23, Height: 16261px, Body fits width: False
+2025-05-24 10:59:53 - root - INFO - Testing font size 257: Total lines: 19, Height: 6821px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 257: Total lines: 19, Height: 6821px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 133: Total lines: 11, Height: 2046px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 133: Total lines: 11, Height: 2046px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 71: Total lines: 8, Height: 792px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 71: Total lines: 8, Height: 792px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 102: Total lines: 10, Height: 1420px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 102: Total lines: 10, Height: 1420px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 117: Total lines: 10, Height: 1630px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 117: Total lines: 10, Height: 1630px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 109: Total lines: 10, Height: 1520px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 109: Total lines: 10, Height: 1520px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 105: Total lines: 10, Height: 1470px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 105: Total lines: 10, Height: 1470px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 107: Total lines: 10, Height: 1490px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 107: Total lines: 10, Height: 1490px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 106: Total lines: 10, Height: 1480px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Testing font size 106: Total lines: 10, Height: 1480px, Body fits width: True
+2025-05-24 10:59:53 - root - INFO - Optimal font size selected: 105
+2025-05-24 10:59:53 - root - INFO - Optimal font size selected: 105
+2025-05-24 10:59:53 - root - INFO - Total content height: 1470px, Starting y-position: 315px
+2025-05-24 10:59:53 - root - INFO - Total content height: 1470px, Starting y-position: 315px
+2025-05-24 10:59:53 - root - INFO - Drawing greeting
+2025-05-24 10:59:53 - root - INFO - Drawing greeting
+2025-05-24 10:59:53 - root - INFO - Drawing body
+2025-05-24 10:59:53 - root - INFO - Drawing body
+2025-05-24 10:59:53 - root - INFO - Drawing sign-off (right-aligned)
+2025-05-24 10:59:53 - root - INFO - Drawing sign-off (right-aligned)
+2025-05-24 10:59:53 - root - INFO - Loaded and resized local image from last-page.png to 1500x2100
+2025-05-24 10:59:53 - root - INFO - Loaded and resized local image from last-page.png to 1500x2100
+2025-05-24 10:59:55 - root - INFO - Loaded and resized image from URL https://tobre-cards.s3.us-east-2.amazonaws.com/images/e964dcdb-1b02-4f86-959a-ee11791db037-Happy%20Birthday%20(4).png to 1500x2100
+2025-05-24 10:59:55 - root - INFO - Loaded and resized image from URL https://tobre-cards.s3.us-east-2.amazonaws.com/images/e964dcdb-1b02-4f86-959a-ee11791db037-Happy%20Birthday%20(4).png to 1500x2100
+2025-05-24 10:59:55 - root - INFO - Created output-page-01.png with dimensions 3000x2100 pixels (254mm x 177.8mm at 300 DPI)
+2025-05-24 10:59:55 - root - INFO - Created output-page-01.png with dimensions 3000x2100 pixels (254mm x 177.8mm at 300 DPI)
+2025-05-24 10:59:55 - root - INFO - Each page size: 3000x2100 pixels (254mm x 177.8mm)
+2025-05-24 10:59:55 - root - INFO - Each page size: 3000x2100 pixels (254mm x 177.8mm)
+2025-05-24 10:59:55 - root - INFO - PDF page size: 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 10:59:55 - root - INFO - PDF page size: 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 10:59:56 - root - INFO - Created PDF: output.pdf with 2 pages, each 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 10:59:56 - root - INFO - Created PDF: output.pdf with 2 pages, each 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:00:06 - root - INFO - Upload Successful: generated-cards/67300cc2-6f38-4da0-b0ab-7a5c2f4a35fa.pdf to tobre-cards
+2025-05-24 11:00:06 - root - INFO - Upload Successful: generated-cards/67300cc2-6f38-4da0-b0ab-7a5c2f4a35fa.pdf to tobre-cards
+2025-05-24 11:00:07 - root - INFO - The file output.pdf has been deleted.
+2025-05-24 11:00:07 - root - INFO - The file output.pdf has been deleted.
+2025-05-24 11:00:07 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 11:00:07] "POST /api/generate_card HTTP/1.1" 200 -
+2025-05-24 11:00:07 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 11:00:07] "POST /api/generate_card HTTP/1.1" 200 -
+2025-05-24 11:00:24 - werkzeug - INFO -  * Detected change in '/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py', reloading
+2025-05-24 11:00:24 - werkzeug - INFO -  * Detected change in '/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py', reloading
+2025-05-24 11:00:24 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 11:00:24 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 11:00:24 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 11:00:24 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 11:00:24 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 11:00:24 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 11:00:42 - werkzeug - INFO -  * Detected change in '/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py', reloading
+2025-05-24 11:00:42 - werkzeug - INFO -  * Detected change in '/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py', reloading
+2025-05-24 11:00:42 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 11:00:42 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 11:00:42 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 11:00:42 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 11:00:42 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 11:00:42 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 11:00:45 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 11:00:45 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 11:00:45 - root - INFO - Width margin: 225px, Height margin: 315px
+2025-05-24 11:00:45 - root - INFO - Width margin: 225px, Height margin: 315px
+2025-05-24 11:00:45 - root - INFO - Max text width: 1050px, Usable height: 1470px
+2025-05-24 11:00:45 - root - INFO - Max text width: 1050px, Usable height: 1470px
+2025-05-24 11:00:45 - root - INFO - Body has 0 newlines. Is poem: False
+2025-05-24 11:00:45 - root - INFO - Body has 0 newlines. Is poem: False
+2025-05-24 11:00:45 - root - INFO - Testing font size 505: Total lines: 23, Height: 16261px, Body fits width: False
+2025-05-24 11:00:45 - root - INFO - Testing font size 505: Total lines: 23, Height: 16261px, Body fits width: False
+2025-05-24 11:00:45 - root - INFO - Testing font size 257: Total lines: 19, Height: 6821px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 257: Total lines: 19, Height: 6821px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 133: Total lines: 11, Height: 2046px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 133: Total lines: 11, Height: 2046px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 71: Total lines: 8, Height: 792px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 71: Total lines: 8, Height: 792px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 102: Total lines: 10, Height: 1420px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 102: Total lines: 10, Height: 1420px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 117: Total lines: 10, Height: 1630px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 117: Total lines: 10, Height: 1630px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 109: Total lines: 10, Height: 1520px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 109: Total lines: 10, Height: 1520px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 105: Total lines: 10, Height: 1470px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 105: Total lines: 10, Height: 1470px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 107: Total lines: 10, Height: 1490px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 107: Total lines: 10, Height: 1490px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 106: Total lines: 10, Height: 1480px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Testing font size 106: Total lines: 10, Height: 1480px, Body fits width: True
+2025-05-24 11:00:45 - root - INFO - Optimal font size selected: 105
+2025-05-24 11:00:45 - root - INFO - Optimal font size selected: 105
+2025-05-24 11:00:45 - root - INFO - Total content height: 1470px, Starting y-position: 315px
+2025-05-24 11:00:45 - root - INFO - Total content height: 1470px, Starting y-position: 315px
+2025-05-24 11:00:45 - root - INFO - Drawing greeting
+2025-05-24 11:00:45 - root - INFO - Drawing greeting
+2025-05-24 11:00:45 - root - INFO - Drawing body
+2025-05-24 11:00:45 - root - INFO - Drawing body
+2025-05-24 11:00:45 - root - INFO - Drawing sign-off (right-aligned)
+2025-05-24 11:00:45 - root - INFO - Drawing sign-off (right-aligned)
+2025-05-24 11:00:45 - root - INFO - Loaded and resized local image from last-page.png to 1500x2100
+2025-05-24 11:00:45 - root - INFO - Loaded and resized local image from last-page.png to 1500x2100
+2025-05-24 11:00:52 - root - INFO - Loaded and resized image from URL https://tobre-cards.s3.us-east-2.amazonaws.com/images/e964dcdb-1b02-4f86-959a-ee11791db037-Happy%20Birthday%20(4).png to 1500x2100
+2025-05-24 11:00:52 - root - INFO - Loaded and resized image from URL https://tobre-cards.s3.us-east-2.amazonaws.com/images/e964dcdb-1b02-4f86-959a-ee11791db037-Happy%20Birthday%20(4).png to 1500x2100
+2025-05-24 11:00:53 - root - INFO - Created output-page-01.png with dimensions 3000x2100 pixels (254mm x 177.8mm at 300 DPI)
+2025-05-24 11:00:53 - root - INFO - Created output-page-01.png with dimensions 3000x2100 pixels (254mm x 177.8mm at 300 DPI)
+2025-05-24 11:00:53 - root - INFO - Each page size: 3000x2100 pixels (254mm x 177.8mm)
+2025-05-24 11:00:53 - root - INFO - Each page size: 3000x2100 pixels (254mm x 177.8mm)
+2025-05-24 11:00:53 - root - INFO - PDF page size: 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:00:53 - root - INFO - PDF page size: 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:00:53 - root - INFO - Created PDF: output.pdf with 2 pages, each 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:00:53 - root - INFO - Created PDF: output.pdf with 2 pages, each 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:01:04 - root - INFO - Upload Successful: generated-cards/0405b128-dbd3-4b21-8493-69bb7ce0dc47.pdf to tobre-cards
+2025-05-24 11:01:04 - root - INFO - Upload Successful: generated-cards/0405b128-dbd3-4b21-8493-69bb7ce0dc47.pdf to tobre-cards
+2025-05-24 11:01:05 - root - INFO - The file output.pdf has been deleted.
+2025-05-24 11:01:05 - root - INFO - The file output.pdf has been deleted.
+2025-05-24 11:01:05 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 11:01:05] "POST /api/generate_card HTTP/1.1" 200 -
+2025-05-24 11:01:05 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 11:01:05] "POST /api/generate_card HTTP/1.1" 200 -
+2025-05-24 11:01:43 - werkzeug - INFO -  * Detected change in '/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py', reloading
+2025-05-24 11:01:43 - werkzeug - INFO -  * Detected change in '/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py', reloading
+2025-05-24 11:01:43 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 11:01:43 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 11:01:44 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 11:01:44 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 11:01:44 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 11:01:44 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 11:01:48 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 11:01:48 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 11:01:48 - root - ERROR - Error in generate_card: name 'mid_x' is not defined
+Traceback (most recent call last):
+  File "/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/api/routes.py", line 113, in generate_card_pdf_
+    s3_link = generate_card_pdf(greeting, body, signoff, thumbnail, last_page)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/utils_card.py", line 180, in generate_card_pdf
+    output_page_02 = create_letter_png_with_blank_page(greeting, body, signoff, output_path="output-page-02.png", width_mm=127, height_mm=177.8, dpi=300)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py", line 178, in create_letter_png_with_blank_page
+    img = draw_letter_content(img, greeting, body, signoff, start_x=mid_x)
+                                                                    ^^^^^
+NameError: name 'mid_x' is not defined
+2025-05-24 11:01:48 - root - ERROR - Error in generate_card: name 'mid_x' is not defined
+Traceback (most recent call last):
+  File "/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/api/routes.py", line 113, in generate_card_pdf_
+    s3_link = generate_card_pdf(greeting, body, signoff, thumbnail, last_page)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/utils_card.py", line 180, in generate_card_pdf
+    output_page_02 = create_letter_png_with_blank_page(greeting, body, signoff, output_path="output-page-02.png", width_mm=127, height_mm=177.8, dpi=300)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py", line 178, in create_letter_png_with_blank_page
+    img = draw_letter_content(img, greeting, body, signoff, start_x=mid_x)
+                                                                    ^^^^^
+NameError: name 'mid_x' is not defined
+2025-05-24 11:01:48 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 11:01:48] "[31m[1mPOST /api/generate_card HTTP/1.1[0m" 400 -
+2025-05-24 11:01:48 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 11:01:48] "[31m[1mPOST /api/generate_card HTTP/1.1[0m" 400 -
+2025-05-24 11:02:08 - werkzeug - INFO -  * Detected change in '/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py', reloading
+2025-05-24 11:02:08 - werkzeug - INFO -  * Detected change in '/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py', reloading
+2025-05-24 11:02:08 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 11:02:08 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 11:02:09 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 11:02:09 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 11:02:09 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 11:02:09 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 11:02:15 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 11:02:15 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 11:02:15 - root - INFO - Width margin: 225px, Height margin: 315px
+2025-05-24 11:02:15 - root - INFO - Width margin: 225px, Height margin: 315px
+2025-05-24 11:02:15 - root - INFO - Max text width: 1050px, Usable height: 1470px
+2025-05-24 11:02:15 - root - INFO - Max text width: 1050px, Usable height: 1470px
+2025-05-24 11:02:15 - root - INFO - Body has 0 newlines. Is poem: False
+2025-05-24 11:02:15 - root - INFO - Body has 0 newlines. Is poem: False
+2025-05-24 11:02:15 - root - INFO - Testing font size 505: Total lines: 23, Height: 16261px, Body fits width: False
+2025-05-24 11:02:15 - root - INFO - Testing font size 505: Total lines: 23, Height: 16261px, Body fits width: False
+2025-05-24 11:02:15 - root - INFO - Testing font size 257: Total lines: 19, Height: 6821px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 257: Total lines: 19, Height: 6821px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 133: Total lines: 11, Height: 2046px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 133: Total lines: 11, Height: 2046px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 71: Total lines: 8, Height: 792px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 71: Total lines: 8, Height: 792px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 102: Total lines: 10, Height: 1420px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 102: Total lines: 10, Height: 1420px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 117: Total lines: 10, Height: 1630px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 117: Total lines: 10, Height: 1630px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 109: Total lines: 10, Height: 1520px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 109: Total lines: 10, Height: 1520px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 105: Total lines: 10, Height: 1470px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 105: Total lines: 10, Height: 1470px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 107: Total lines: 10, Height: 1490px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 107: Total lines: 10, Height: 1490px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 106: Total lines: 10, Height: 1480px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Testing font size 106: Total lines: 10, Height: 1480px, Body fits width: True
+2025-05-24 11:02:15 - root - INFO - Optimal font size selected: 105
+2025-05-24 11:02:15 - root - INFO - Optimal font size selected: 105
+2025-05-24 11:02:15 - root - INFO - Total content height: 1470px, Starting y-position: 315px
+2025-05-24 11:02:15 - root - INFO - Total content height: 1470px, Starting y-position: 315px
+2025-05-24 11:02:15 - root - INFO - Drawing greeting
+2025-05-24 11:02:15 - root - INFO - Drawing greeting
+2025-05-24 11:02:15 - root - INFO - Drawing body
+2025-05-24 11:02:15 - root - INFO - Drawing body
+2025-05-24 11:02:15 - root - INFO - Drawing sign-off (right-aligned)
+2025-05-24 11:02:15 - root - INFO - Drawing sign-off (right-aligned)
+2025-05-24 11:02:15 - root - INFO - Loaded and resized local image from last-page.png to 1500x2100
+2025-05-24 11:02:15 - root - INFO - Loaded and resized local image from last-page.png to 1500x2100
+2025-05-24 11:02:17 - root - INFO - Loaded and resized image from URL https://tobre-cards.s3.us-east-2.amazonaws.com/images/e964dcdb-1b02-4f86-959a-ee11791db037-Happy%20Birthday%20(4).png to 1500x2100
+2025-05-24 11:02:17 - root - INFO - Loaded and resized image from URL https://tobre-cards.s3.us-east-2.amazonaws.com/images/e964dcdb-1b02-4f86-959a-ee11791db037-Happy%20Birthday%20(4).png to 1500x2100
+2025-05-24 11:02:17 - root - INFO - Created output-page-01.png with dimensions 3000x2100 pixels (254mm x 177.8mm at 300 DPI)
+2025-05-24 11:02:17 - root - INFO - Created output-page-01.png with dimensions 3000x2100 pixels (254mm x 177.8mm at 300 DPI)
+2025-05-24 11:02:17 - root - INFO - Each page size: 3000x2100 pixels (254mm x 177.8mm)
+2025-05-24 11:02:17 - root - INFO - Each page size: 3000x2100 pixels (254mm x 177.8mm)
+2025-05-24 11:02:17 - root - INFO - PDF page size: 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:02:17 - root - INFO - PDF page size: 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:02:18 - root - INFO - Created PDF: output.pdf with 2 pages, each 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:02:18 - root - INFO - Created PDF: output.pdf with 2 pages, each 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:02:29 - root - INFO - Upload Successful: generated-cards/a895bcf2-2732-4de3-8e49-557554cb6997.pdf to tobre-cards
+2025-05-24 11:02:29 - root - INFO - Upload Successful: generated-cards/a895bcf2-2732-4de3-8e49-557554cb6997.pdf to tobre-cards
+2025-05-24 11:02:29 - root - INFO - The file output.pdf has been deleted.
+2025-05-24 11:02:29 - root - INFO - The file output.pdf has been deleted.
+2025-05-24 11:02:29 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 11:02:29] "POST /api/generate_card HTTP/1.1" 200 -
+2025-05-24 11:02:29 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 11:02:29] "POST /api/generate_card HTTP/1.1" 200 -
+2025-05-24 11:03:09 - werkzeug - INFO -  * Detected change in '/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py', reloading
+2025-05-24 11:03:09 - werkzeug - INFO -  * Detected change in '/Users/mattiurrehman/Desktop/project_ecom_greeting_cards_ai_module/ai_module/utils/letter_generator.py', reloading
+2025-05-24 11:03:09 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 11:03:09 - werkzeug - INFO -  * Restarting with stat
+2025-05-24 11:03:10 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 11:03:10 - werkzeug - WARNING -  * Debugger is active!
+2025-05-24 11:03:10 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 11:03:10 - werkzeug - INFO -  * Debugger PIN: 914-937-160
+2025-05-24 11:03:12 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 11:03:12 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 11:03:12 - root - INFO - Width margin: 225px, Height margin: 315px
+2025-05-24 11:03:12 - root - INFO - Width margin: 225px, Height margin: 315px
+2025-05-24 11:03:12 - root - INFO - Max text width: 1050px, Usable height: 1470px
+2025-05-24 11:03:12 - root - INFO - Max text width: 1050px, Usable height: 1470px
+2025-05-24 11:03:12 - root - INFO - Body has 0 newlines. Is poem: False
+2025-05-24 11:03:12 - root - INFO - Body has 0 newlines. Is poem: False
+2025-05-24 11:03:12 - root - INFO - Testing font size 505: Total lines: 23, Height: 16261px, Body fits width: False
+2025-05-24 11:03:12 - root - INFO - Testing font size 505: Total lines: 23, Height: 16261px, Body fits width: False
+2025-05-24 11:03:12 - root - INFO - Testing font size 257: Total lines: 19, Height: 6821px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 257: Total lines: 19, Height: 6821px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 133: Total lines: 11, Height: 2046px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 133: Total lines: 11, Height: 2046px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 71: Total lines: 8, Height: 792px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 71: Total lines: 8, Height: 792px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 102: Total lines: 10, Height: 1420px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 102: Total lines: 10, Height: 1420px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 117: Total lines: 10, Height: 1630px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 117: Total lines: 10, Height: 1630px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 109: Total lines: 10, Height: 1520px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 109: Total lines: 10, Height: 1520px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 105: Total lines: 10, Height: 1470px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 105: Total lines: 10, Height: 1470px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 107: Total lines: 10, Height: 1490px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 107: Total lines: 10, Height: 1490px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 106: Total lines: 10, Height: 1480px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Testing font size 106: Total lines: 10, Height: 1480px, Body fits width: True
+2025-05-24 11:03:12 - root - INFO - Optimal font size selected: 105
+2025-05-24 11:03:12 - root - INFO - Optimal font size selected: 105
+2025-05-24 11:03:12 - root - INFO - Total content height: 1470px, Starting y-position: 315px
+2025-05-24 11:03:12 - root - INFO - Total content height: 1470px, Starting y-position: 315px
+2025-05-24 11:03:12 - root - INFO - Drawing greeting
+2025-05-24 11:03:12 - root - INFO - Drawing greeting
+2025-05-24 11:03:12 - root - INFO - Drawing body
+2025-05-24 11:03:12 - root - INFO - Drawing body
+2025-05-24 11:03:12 - root - INFO - Drawing sign-off (right-aligned)
+2025-05-24 11:03:12 - root - INFO - Drawing sign-off (right-aligned)
+2025-05-24 11:03:12 - root - INFO - Loaded and resized local image from last-page.png to 1500x2100
+2025-05-24 11:03:12 - root - INFO - Loaded and resized local image from last-page.png to 1500x2100
+2025-05-24 11:03:15 - root - INFO - Loaded and resized image from URL https://tobre-cards.s3.us-east-2.amazonaws.com/images/e964dcdb-1b02-4f86-959a-ee11791db037-Happy%20Birthday%20(4).png to 1500x2100
+2025-05-24 11:03:15 - root - INFO - Loaded and resized image from URL https://tobre-cards.s3.us-east-2.amazonaws.com/images/e964dcdb-1b02-4f86-959a-ee11791db037-Happy%20Birthday%20(4).png to 1500x2100
+2025-05-24 11:03:15 - root - INFO - Created output-page-01.png with dimensions 3000x2100 pixels (254mm x 177.8mm at 300 DPI)
+2025-05-24 11:03:15 - root - INFO - Created output-page-01.png with dimensions 3000x2100 pixels (254mm x 177.8mm at 300 DPI)
+2025-05-24 11:03:15 - root - INFO - Each page size: 3000x2100 pixels (254mm x 177.8mm)
+2025-05-24 11:03:15 - root - INFO - Each page size: 3000x2100 pixels (254mm x 177.8mm)
+2025-05-24 11:03:15 - root - INFO - PDF page size: 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:03:15 - root - INFO - PDF page size: 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:03:15 - root - INFO - Created PDF: output.pdf with 2 pages, each 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:03:15 - root - INFO - Created PDF: output.pdf with 2 pages, each 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:03:26 - root - INFO - Upload Successful: generated-cards/7f70b82b-2101-4aa1-8aee-80650293e6e9.pdf to tobre-cards
+2025-05-24 11:03:26 - root - INFO - Upload Successful: generated-cards/7f70b82b-2101-4aa1-8aee-80650293e6e9.pdf to tobre-cards
+2025-05-24 11:03:27 - root - INFO - The file output.pdf has been deleted.
+2025-05-24 11:03:27 - root - INFO - The file output.pdf has been deleted.
+2025-05-24 11:03:27 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 11:03:27] "POST /api/generate_card HTTP/1.1" 200 -
+2025-05-24 11:03:27 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 11:03:27] "POST /api/generate_card HTTP/1.1" 200 -
+2025-05-24 11:20:50 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 11:20:50 - root - INFO - Last page is a valid path or URL: last-page.png
+2025-05-24 11:20:50 - root - INFO - Width margin: 225px, Height margin: 315px
+2025-05-24 11:20:50 - root - INFO - Width margin: 225px, Height margin: 315px
+2025-05-24 11:20:50 - root - INFO - Max text width: 1050px, Usable height: 1470px
+2025-05-24 11:20:50 - root - INFO - Max text width: 1050px, Usable height: 1470px
+2025-05-24 11:20:50 - root - INFO - Body has 0 newlines. Is poem: False
+2025-05-24 11:20:50 - root - INFO - Body has 0 newlines. Is poem: False
+2025-05-24 11:20:50 - root - INFO - Testing font size 505: Total lines: 23, Height: 16261px, Body fits width: False
+2025-05-24 11:20:50 - root - INFO - Testing font size 505: Total lines: 23, Height: 16261px, Body fits width: False
+2025-05-24 11:20:50 - root - INFO - Testing font size 257: Total lines: 19, Height: 6821px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 257: Total lines: 19, Height: 6821px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 133: Total lines: 11, Height: 2046px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 133: Total lines: 11, Height: 2046px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 71: Total lines: 8, Height: 792px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 71: Total lines: 8, Height: 792px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 102: Total lines: 10, Height: 1420px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 102: Total lines: 10, Height: 1420px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 117: Total lines: 10, Height: 1630px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 117: Total lines: 10, Height: 1630px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 109: Total lines: 10, Height: 1520px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 109: Total lines: 10, Height: 1520px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 105: Total lines: 10, Height: 1470px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 105: Total lines: 10, Height: 1470px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 107: Total lines: 10, Height: 1490px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 107: Total lines: 10, Height: 1490px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 106: Total lines: 10, Height: 1480px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Testing font size 106: Total lines: 10, Height: 1480px, Body fits width: True
+2025-05-24 11:20:50 - root - INFO - Optimal font size selected: 105
+2025-05-24 11:20:50 - root - INFO - Optimal font size selected: 105
+2025-05-24 11:20:50 - root - INFO - Total content height: 1470px, Starting y-position: 315px
+2025-05-24 11:20:50 - root - INFO - Total content height: 1470px, Starting y-position: 315px
+2025-05-24 11:20:50 - root - INFO - Drawing greeting
+2025-05-24 11:20:50 - root - INFO - Drawing greeting
+2025-05-24 11:20:50 - root - INFO - Drawing body
+2025-05-24 11:20:50 - root - INFO - Drawing body
+2025-05-24 11:20:50 - root - INFO - Drawing sign-off (right-aligned)
+2025-05-24 11:20:50 - root - INFO - Drawing sign-off (right-aligned)
+2025-05-24 11:20:50 - root - INFO - Loaded and resized local image from last-page.png to 1500x2100
+2025-05-24 11:20:50 - root - INFO - Loaded and resized local image from last-page.png to 1500x2100
+2025-05-24 11:20:52 - root - INFO - Loaded and resized image from URL https://tobre-cards.s3.us-east-2.amazonaws.com/images/e964dcdb-1b02-4f86-959a-ee11791db037-Happy%20Birthday%20(4).png to 1500x2100
+2025-05-24 11:20:52 - root - INFO - Loaded and resized image from URL https://tobre-cards.s3.us-east-2.amazonaws.com/images/e964dcdb-1b02-4f86-959a-ee11791db037-Happy%20Birthday%20(4).png to 1500x2100
+2025-05-24 11:20:53 - root - INFO - Created output-page-01.png with dimensions 3000x2100 pixels (254mm x 177.8mm at 300 DPI)
+2025-05-24 11:20:53 - root - INFO - Created output-page-01.png with dimensions 3000x2100 pixels (254mm x 177.8mm at 300 DPI)
+2025-05-24 11:20:53 - root - INFO - Each page size: 3000x2100 pixels (254mm x 177.8mm)
+2025-05-24 11:20:53 - root - INFO - Each page size: 3000x2100 pixels (254mm x 177.8mm)
+2025-05-24 11:20:53 - root - INFO - PDF page size: 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:20:53 - root - INFO - PDF page size: 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:20:53 - root - INFO - Created PDF: output.pdf with 2 pages, each 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:20:53 - root - INFO - Created PDF: output.pdf with 2 pages, each 720.00000018x504.00000012600003 points (254mm x 177.8mm)
+2025-05-24 11:21:04 - root - INFO - Upload Successful: generated-cards/b9926bfd-f629-42f3-b729-c5919124c646.pdf to tobre-cards
+2025-05-24 11:21:04 - root - INFO - Upload Successful: generated-cards/b9926bfd-f629-42f3-b729-c5919124c646.pdf to tobre-cards
+2025-05-24 11:21:05 - root - INFO - The file output.pdf has been deleted.
+2025-05-24 11:21:05 - root - INFO - The file output.pdf has been deleted.
+2025-05-24 11:21:05 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 11:21:05] "POST /api/generate_card HTTP/1.1" 200 -
+2025-05-24 11:21:05 - werkzeug - INFO - 127.0.0.1 - - [24/May/2025 11:21:05] "POST /api/generate_card HTTP/1.1" 200 -
