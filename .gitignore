@@ -2,3 +2,7 @@ venv1
 __pycache__
 .DS_Store
 config.ini
+__init__.py
+app.log
+output-page-01.png
+output-page-02.png
